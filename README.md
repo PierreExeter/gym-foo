@@ -3,6 +3,8 @@ gym_foo is a minimal Gym environment used to illustrate how to create a custom G
 
 ## Installation and environment registration
 ```
+git clone https://github.com/PierreExeter/gym-foo.git
+cd gym-foo
 pip install gym
 pip install -e .
 ```
